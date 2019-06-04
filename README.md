@@ -13,3 +13,16 @@ Awesome React https://github.com/enaqx/awesome-react
 * 阮一峰React Router入门 http://www.ruanyifeng.com/blog/2016/05/react_router.html
 * react-redux 中文文档 http://cn.redux.js.org/docs/react-redux/index.html
 * 阮一峰Redux 入门教程 http://www.ruanyifeng.com/blog/2016/09/
+* Mobx https://cn.mobx.js.org/
+* Mobx React原理解析 https://zhuanlan.zhihu.com/p/27448262
+* React Native中文文档 https://reactnative.cn/
+* Jest https://jestjs.io/zh-Hans/
+
+### 基础
+* webpack https://webpack.docschina.org/
+* gulp https://www.gulpjs.com.cn/docs/
+* less中文网 http://lesscss.cn/
+
+### 扩展
+* antd https://ant.design/
+* Umi 企业级react应用框架 https://umijs.org/zh/guide/
