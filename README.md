@@ -22,7 +22,18 @@ Awesome React https://github.com/enaqx/awesome-react
 * webpack https://webpack.docschina.org/
 * gulp https://www.gulpjs.com.cn/docs/
 * less中文网 http://lesscss.cn/
+* typescript https://www.typescriptlang.org/
+* typescript中文网 https://www.tslang.cn/
 
 ### 扩展
 * antd https://ant.design/
 * Umi 企业级react应用框架 https://umijs.org/zh/guide/
+* dva https://dvajs.com/guide/
+
+
+## 参考文献
+
+
+
+## In Process
+* Jest 
