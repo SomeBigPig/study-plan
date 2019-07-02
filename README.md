@@ -25,6 +25,10 @@ Awesome React https://github.com/enaqx/awesome-react
 * typescript https://www.typescriptlang.org/
 * typescript中文网 https://www.tslang.cn/
 
+### 杂技
+* 正则表达式
+* 柯里化函数
+
 ### 扩展
 * antd https://ant.design/
 * Umi 企业级react应用框架 https://umijs.org/zh/guide/
